@@ -1,34 +1,22 @@
 ### Hi there 👋
 
-<!--
-**Mane-Olawale/Mane-Olawale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, Curious Cat 👋
+<h3> Welcome to my Repo</h3>
+My Name is Olawale Ilesanmi I am a  Software Engineer. I develop Backend aplication and its components as well as building web solutions that enable businesses connect with their target audience through the internet.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-HI THERE :wave:
-===============
-
-Welcome to my Github profile. I do hope you have a wonderful time going through my stats and repos.
-
-### About
-
-Kingsley Victor is a full-stack software engineer :man_technologist: based in Nigeria :nigeria:. He has a passion for building stuff particularly with Java, JavaScript or Typescript and is a great fan of frameworks/libraries such as Spring Boot, Express, Angular and React. 
-
-Kingsley is also a budding DevOps engineer who's familiar with Docker, Travis and Jenkins and is open to learning new technologies. He's strongly passionate about RESTful APIs, GraphQL, Microservices, Blockchain (he's still learning this one), Cloud Computing (he's still learning this one), Serverless technology (he's still learning this one) and Big Data (he's still learning this one). The cool part is he's hoping to delve into machine learning and artificial intelligence in the not-so-distant future :rocket: :sparkles: :+1:.
+* 🌱 Primary coding language: PHP.
+* 📫 I’m currently working on my portfolio and also Building a career in Tech.
+* 🚀 Daily Drivers: Visual Studio Code, Sublime merge, insomnia and Github.
+* ⚡ Fun fact:I am A grammy award winning musician in the bathroom 😎.
+* 🎉 Hobbies: Contributing to Open Source, Reading and thinking about my bugs
+* 💬 Ask me about: PHP, Laravel, WordPress C.I, Composer, OOP and Design patterns.
+*  Infact Ask me about anything, I'll be happy to help.
+* 😄 Pronouns: He/Him
 
 
-Kingsley is also in love :sparkling_heart: :blush: with philosophy and is a fan of Plato, Anselm of Canterbury, Thomas Aqinas, Socrates and Rene Descartes.
 
--->
+## 🔧 Technologies & Tools
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="Css" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
 
 ### Stats :chart_with_downwards_trend:
 
