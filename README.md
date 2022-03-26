@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Hello, Curious Cat 👋
+### Hello Sweetheart 👋
 <h3> Welcome to my Repo</h3>
 My Name is Olawale Ilesanmi I am a  Software Engineer. I develop Backend aplication and its components as well as building web solutions that enable businesses connect with their target audience through the internet.
 
