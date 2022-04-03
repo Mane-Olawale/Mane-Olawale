@@ -1,3 +1,5 @@
+[![Mane Olawale's Github Stats](https://activity-graph.herokuapp.com/graph?username=Mane-Olawale&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](https://github.com/Mane-Olawale)
+
 ### Hello Sweetheart 👋
 <h3> Welcome to my Repo</h3>
 My Name is Olawale Ilesanmi I am a  Software Engineer. I develop Backend aplication and its components as well as building web solutions that enable businesses connect with their target audience through the internet.
@@ -23,8 +25,6 @@ My Name is Olawale Ilesanmi I am a  Software Engineer. I develop Backend aplicat
 [![Mane Olawale's Github Stats](https://github-readme-stats.vercel.app/api?username=Mane-Olawale&count_private=true&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true)](https://github.com/Mane-Olawale)
 
 [![Mane Olawale's Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Mane-Olawale&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://github.com/Mane-Olawale)
-
-[![Mane Olawale's Github Stats](https://activity-graph.herokuapp.com/graph?username=Mane-Olawale&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](https://github.com/Mane-Olawale)
 
 ##### Languages/Tools/Stack
 
