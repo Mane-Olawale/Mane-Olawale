@@ -1,4 +1,4 @@
-[![Mane Olawale's Github Stats](https://activity-graph.herokuapp.com/graph?username=Mane-Olawale&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](https://github.com/Mane-Olawale)
+[![Mane Olawale's Github Stats](https://activity-graph.herokuapp.com/graph?username=Mane-Olawale&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=My%20Commits%20Graph)](https://github.com/Mane-Olawale)
 
 ### Hello Sweetheart 👋
 <h3> Welcome to my Repo</h3>
