@@ -28,5 +28,5 @@ My Name is Olawale Ilesanmi I am a  Software Engineer. I develop Backend aplicat
 
 ##### Languages/Tools/Stack
 
-[![Mane Olawale's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Mane-Olawale&show_icons=true&theme=nightowl)](https://github.com/Mane-Olawale)
+[![Mane Olawale's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Mane-Olawale&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Language%20Graph)](https://github.com/Mane-Olawale)
 
